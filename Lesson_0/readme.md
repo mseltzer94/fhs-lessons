@@ -17,7 +17,7 @@ Basic
 - **CSS**: Add a style block to the head of `boring_page.html` to:
     - Remove the underline from all links
     - Center all of the paragraphs
-    - Make all the headings 2 times the normal font size (*hint: check out the em unit*), blue, and all capitals.
+    - Make all the headings 2 times the normal font size *(hint: check out the em unit)*, blue, and all capitals.
     - Make the text inside of em tags nested in div tags red:
     
         ```
@@ -40,7 +40,7 @@ Intermediate
 like the one on the homepage of fairviewhs.org.  It should indicate the page the user is currently on. Put the stylesheet in a 
 separate file called `homepage_styles.css`.
 
-- **HTML/CSS**: Add some more styles to `homepage_styles.css` to make a two column layout (*hint: float the divs*) and make the page look pretty.
+- **HTML/CSS**: Add some more styles to `homepage_styles.css` to make a two column layout *(hint: float the divs)* and make the page look pretty.
 CSS is about having an eye for design, so try to make an attractive page.
 
 - **Programming**: Solve the challenges in the file called `intermediate_programming_challenges.md`.
