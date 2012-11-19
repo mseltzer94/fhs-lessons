@@ -19,13 +19,14 @@ Basic
     - Center all of the paragraphs
     - Make all the headings 2 times the normal font size (*hint: check out the em unit*), blue, and all capitals.
     - Make the text inside of em tags nested in div tags red:
-        ```html
+    
+        ```
         <em>This text is not red</em>
         <div>
           <em>This text IS red</em>
         </div>
         ```
-    - Give all paragraphs 10px of padding on all four sides
+    - Give all paragraphs `10px` of padding on all four sides
     - Add an html5 doctype
 
 - **Rails**: Complete Chapter 1 of Michael Hartl's [Ruby on Rails Tutorial](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book).
