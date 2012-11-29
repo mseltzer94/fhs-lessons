@@ -1,6 +1,17 @@
 1. Write a program that allows the user to input a string and a number, and then prints the string that number of times.
    Example: User inputs the string "hi" and the number 15. The program prints the word hi 15 times.
    Answer: (Include your program here)
+import java.util.Scanner;
+public static void main (String[] args) {
+Scanner scan = new Scanner ( System.in);
+int j;
+str name = scan.nextLine();
+j = scan.nextInt ();
+for (int i = 1; i <=j;i++){
+system.out.println(name);
+}
+}
+
 
 
 2. Sum the first 100 even numbers starting with 2.
@@ -24,6 +35,6 @@
     }
   }
   
-  Answer:
+  Answer:54
 
 
